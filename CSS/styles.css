@@ -1,0 +1,25 @@
+body {
+  background-color: #BBE1FA
+}
+
+h1 {
+  color: #3282B8;
+  font-family:"Calibri";
+  }
+
+h3 {
+  color: #3282B8;
+  font-family:"Calibri";
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%
+}
+p{font-family:"Calibri"}
+label{font-family:"Calibri"}
+ul{font-family: "Calibri"}
+ol{font-family: "Calibri"}
