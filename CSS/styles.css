@@ -1,16 +1,16 @@
 body {
   background-color: #BBE1FA;
-  font-family:"Calibri";
+  font-family: 'Mukta', sans-serif;
 }
 
 h1 {
   color: #3282B8;
-  font-family:"Calibri";
+  font-family: 'Mukta', sans-serif;
   }
 
 h3 {
   color: #3282B8;
-  font-family:"Calibri";
+  font-family: 'Mukta', sans-serif;
 }
 
 hr {
@@ -20,7 +20,7 @@ hr {
   border-width: 5px;
   width: 5%
 }
-p{font-family:"Calibri"}
-label{font-family:"Calibri"}
-ul{font-family: "Calibri"}
-ol{font-family: "Calibri"}
+p{font-family: 'Mukta', sans-serif;}
+label{font-family: 'Mukta', sans-serif;}
+ul{font-family: 'Mukta', sans-serif;}
+ol{font-family: 'Mukta', sans-serif;}
