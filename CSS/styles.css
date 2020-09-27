@@ -13,14 +13,24 @@ h3 {
   font-family: 'Mukta', sans-serif;
 }
 
-hr {
+.flex-container {
+display: flex;
+justify-content: center;
+max-width: 816px;
+}
+
+.child-item {
+  display: flex;
+  justify-content: flex-end;
   border-color: grey;
   border-style: none;
   border-top-style: dotted;
   border-width: 5px;
   width: 5%
 }
+
 p{font-family: 'Mukta', sans-serif;}
 label{font-family: 'Mukta', sans-serif;}
 ul{font-family: 'Mukta', sans-serif;}
 ol{font-family: 'Mukta', sans-serif;}
+
