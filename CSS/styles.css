@@ -3,8 +3,8 @@
 body {
   font-family: 'Merriweather', serif;
   color: #40514e;
-  margin: 50;
   text-align: center;
+  margin: 0px;
   }
 
 h1 {
@@ -50,8 +50,7 @@ hr {
 
 .top-container {
   background-color: #eaf6f6;
-  position: relative;
-  padding-top: 100px;
+  /* position: relative; */
 }
 
 .subtitle {
