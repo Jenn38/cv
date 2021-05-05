@@ -7,6 +7,8 @@
   color: #40514e;
   text-align: center;
   overflow: hidden;
+  background-color: #1b262c;
+  color: #bbe1fa;
   }
 
 h1 {
@@ -17,19 +19,16 @@ h1 {
 }
 
 h2 {
-  color: #66bfbf;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   padding-bottom: 10px;
 }
 
 h3 {
-  color: #11999e;
   font-family: 'Montserrat', sans-serif;
 }
 
 a {
-  color: #11999e;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
 }
@@ -39,7 +38,6 @@ a:hover {
 }
 
 p {
-  color: #40514e;
   line-height: 2;
 }
 
@@ -51,7 +49,7 @@ hr {
 }
 
 .top-container {
-  background-color: #eaf6f6;
+  background-color: #0f4c75;
   /* position: relative; */
 }
 
@@ -64,7 +62,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66bfbf;
+  background-color: #0f4c75;
   padding: 50px 0 20px;
 }
 
@@ -93,32 +91,16 @@ hr {
   text-align: left;
 }
 
-.bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 300px;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 40px;
-}
-
-.mountain {
-  bottom: 500px;
-}
-
 .HTML5{
   float: left;
   margin-right: 30px;
-  width: 15%;
+  width: 5%;
 }
 
 .CSS{
   float: right;
   margin-left: 30px;
-  width: 15%;
+  width: 5%;
 }
 
 .footer-link{
@@ -127,7 +109,6 @@ hr {
 }
 
 .copyright{
-  color: #eaf6f6;
   font-size: 0.75rem;
   padding: 20px 0;
 }
