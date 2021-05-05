@@ -1,4 +1,4 @@
-  head {
+head {
   overflow: hidden;
   }
 
@@ -15,7 +15,7 @@ h1 {
   color: #66bfbf;
   font-family: font-family: 'Crimson Text', serif;
   font-size: 5.625rem;
-  margin: 0 auto;
+  margin: 0;
 }
 
 h2 {
@@ -43,7 +43,6 @@ p {
 
 .top-container {
   background-color: #0f4c75;
-  /* position: relative; */
 }
 
 .subtitle {
