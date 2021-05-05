@@ -12,19 +12,21 @@ body {
 }
 
 h1 {
-  color: #66bfbf;
+  color: #0f4c75;
   font-family: font-family: 'Crimson Text', serif;
   font-size: 5.625rem;
   margin: 0;
 }
 
 h2 {
+  color: #0f4c75;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   padding-bottom: 10px;
 }
 
 h3 {
+  color: #0f4c75;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -39,10 +41,6 @@ a:hover {
 
 p {
   line-height: 2;
-}
-
-.top-container {
-  background-color: #0f4c75;
 }
 
 .subtitle {
@@ -99,7 +97,7 @@ p {
 }
 
 .btn {
-  background: #11cdd4;
+  background: #0f4c75;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
   background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
@@ -116,7 +114,7 @@ p {
    }
 
 .btn:hover {
-  background: #30e3cb;
+  background: #3282b8;
   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
