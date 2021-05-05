@@ -98,11 +98,6 @@ p {
 
 .btn {
   background: #0f4c75;
-/*   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e); */
    -webkit-border-radius: 8;
    -moz-border-radius: 8;
    border-radius: 8px;
@@ -115,10 +110,5 @@ p {
 
 .btn:hover {
   background: #3282b8;
-/*   background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linar-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-linear-gradient(to bottom, #30e3cb, #2bc4ad); */
   text-decoration: none;
 }
