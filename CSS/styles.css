@@ -4,11 +4,10 @@ head {
 
   body {
   font-family: 'Merriweather', serif;
-  color: #40514e;
   text-align: center;
   overflow: hidden;
-  background-color: #1b262c;
   color: #bbe1fa;
+  margin: 0;  
   }
 
 h1 {
@@ -54,7 +53,6 @@ p {
 }
 
 .bottom-container {
-  background-color: #0f4c75;
   padding: 50px 0 20px;
 }
 
