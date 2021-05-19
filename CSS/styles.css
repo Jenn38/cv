@@ -2,13 +2,12 @@ head {
   overflow: hidden;
   }
 
-/*  */
 body {
   font-family: 'Merriweather', serif;
   text-align: center;
   background-color: #1b262c;
   color: #bbe1fa;
-  margin: 0;  
+  margin: 0;
 }
 
 h1 {
@@ -30,6 +29,10 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+p {
+    line-height: 2;
+}
+
 a {
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
@@ -39,20 +42,17 @@ a:hover {
   color: #eaf6f6;
 }
 
-p {
-  line-height: 2;
-}
 
 .subtitle {
   font-weight: normal;
 }
 
 .middle-container {
-  margin: 100px 0;
+  margin: 50px 0;
 }
 
 .bottom-container {
-  padding: 50px 0;
+  padding: 25px 0;
 }
 
 .pro {
@@ -61,6 +61,13 @@ p {
 
 .intro{
   width: 30%;
+  margin: auto;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.benefits{
+  max-width: 50%;
   margin: auto;
 }
 
@@ -75,11 +82,13 @@ p {
 }
 
 .HTML5{
+  min-width: 35px;
   width: 5%;
 }
 
 .CSS{
-  width: 5%;
+    min-width: 35px;
+    width: 5%;
 }
 
 .footer-link{
