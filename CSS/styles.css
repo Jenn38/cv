@@ -66,20 +66,19 @@ a:hover {
   font-weight: bold;
 }
 
+.profile {
+  margin: 50px;
+}
+
 .benefits{
   max-width: 50%;
   margin: auto;
 }
 
-.profile {
-  margin: 50px;
+.portfolio{
+  
 }
 
-.skill-row{
-  width: 50%;
-  margin: 100px auto;
-/*   text-align: left; */
-}
 
 .HTML5{
   min-width: 35px;
